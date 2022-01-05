@@ -13,6 +13,9 @@ body{
 }
 .header-section{
     height: 60px;
+    background-image: url(img/watercolor5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .header-content{
     display: flex;
@@ -42,3 +45,9 @@ body{
     color: black;
 }
 /* banner-section */
+.banner{
+    background-image: url(img/watercolor5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
